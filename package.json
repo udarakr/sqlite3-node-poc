@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/udarakr/sqlite3-node-poc/issues"
   },
-  "homepage": "https://github.com/udarakr/sqlite3-node-poc#readme"
+  "homepage": "https://github.com/udarakr/sqlite3-node-poc#readme",
+  "dependencies": {
+    "sqlite3": "5.0.2"
+  }
 }
