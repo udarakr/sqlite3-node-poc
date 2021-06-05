@@ -1,0 +1,19 @@
+{
+  "name": "sqlite3-node-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udarakr/sqlite3-node-poc.git"
+  },
+  "author": "Udara Rathnayake <udarakr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/udarakr/sqlite3-node-poc/issues"
+  },
+  "homepage": "https://github.com/udarakr/sqlite3-node-poc#readme"
+}
